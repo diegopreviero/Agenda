@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/da904ff290de53a47d7f940f212e5f6be406b607/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c2bd3d749f6a4ba12a3f84b4dd8a20d57e2deaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/961f98592d6133cb8768dcf2700edbb09c8ca389/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_4edb5bb3ebf7808c2434b5437efb15ee17ac5d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/e89ee8911cd33c3fad9ce14cc4e2728152377a4c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_03428b78f52b2e86d9eb21b996a7f4b693da0a96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/961f98592d6133cb8768dcf2700edbb09c8ca389/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4edb5bb3ebf7808c2434b5437efb15ee17ac5d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/71f28ce9f8106d04f4e62a71514780af1ead1da7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_3101ba66fb6fae202478de37809bcf1299e9bb84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/4e384baed33bb0ab5982529aabdf8c34ac530a5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_671c7867d6485b3be11a8e587d67d937860f24a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7696e8155a1293fb7b3d662c946fa948fe27c756/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/a0ceb7845077e10a9fccc2ee3e865e4779092a52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_e6b24d703e49c81b2795291f97e17895bd979160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/6624051527e62469fe205d89f84a1a75de599ab0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_fd32021385eaccd338ba536d977dab5f5dd9d361.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/6624051527e62469fe205d89f84a1a75de599ab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd32021385eaccd338ba536d977dab5f5dd9d361/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/5f36584b2d0bc9761ba4bb21e8fa95d6fcfff23c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_a7f5ba57046f24af7b7da233089594e7bfe3f5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_45a50f5c6701ccb52653defe8c311b1fb248480f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/1a7904e79d27135d2640e2b0aa11e6729631957e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_5430a2826e208aedc4ac6e46f2aaba5d1042cab7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd8d0195b4e698c4ceaf5a4e0dea76b9a8340453">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d7aff3db4a84351d76f05c80ffbc46f4e82b212/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e42961923f421ffc6343f8b4993752ad88355b24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/5f36584b2d0bc9761ba4bb21e8fa95d6fcfff23c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7f5ba57046f24af7b7da233089594e7bfe3f5cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/6cea5f7b2bb1587092c6048545702f100b8e82b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_d2522e9da7c86737e67ec911f283253c79a58297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/2a1a5e065ad4efe06227a95f76e50c9af9a9a471/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_6192502d43ba2d995e541aa225b538b7b019b5e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/4780678cb20563999906c38eeece016afef72d31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_21ac042b643da7404a6afe4043ae3f38547aea83.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/b678865320f91ee11437ee46129fcceb361ab94f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32c4d96b294f92767c0854dc920a0dc05ba42d40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/66b5726f781e1fef355938042aa1515a96ec6e42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_21f5b0e91ecf0caa3461ec25e95f447d2be0d9ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/66b5726f781e1fef355938042aa1515a96ec6e42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21f5b0e91ecf0caa3461ec25e95f447d2be0d9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/b678865320f91ee11437ee46129fcceb361ab94f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_32c4d96b294f92767c0854dc920a0dc05ba42d40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/2dc36d5f9a8134b51696b712e15beddedc90da96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_05603ab013550ba5f8527585c890f7412bb36746.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khaemhat/.android/build-cache/2dc36d5f9a8134b51696b712e15beddedc90da96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05603ab013550ba5f8527585c890f7412bb36746/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/ce33cddcdf7ad4fc779a26cc5bafc622142e1e0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_d3138b7df604760b8e774756af2b3ca5f8ffbe99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/1c56cbc42fac3b0da496d8f36df7e6ff91a5ce31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_3f6f9f7251e937b864334338c8c492b227f6c26d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khaemhat/.android/build-cache/da904ff290de53a47d7f940f212e5f6be406b607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/khaemhat/Dropbox/@Share_Belinha/2016/Pos_DSW/11_Android/workspace/Agenda/app/build/intermediates/pre-dexed/debug/classes_1c2bd3d749f6a4ba12a3f84b4dd8a20d57e2deaa.jar" />
+    </item>
+
+</items>

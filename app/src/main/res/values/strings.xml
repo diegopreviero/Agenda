@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="title_activity_lista_contatos">Contatos</string>
+    <string name="title_activity_contato">Contato</string>
+    <string name="nome">Nome</string>
+    <string name="endere_o">Endereço</string>
+    <string name="title_activity_splasch">SplaschActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_testekey">Map</string>
+    <string name="title_activity_testekey2">Map</string>
+</resources>
